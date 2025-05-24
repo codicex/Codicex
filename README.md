@@ -23,6 +23,10 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible)
@@ -36,7 +40,6 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-
 ---
 
 ## 📌 Proyectos destacados
