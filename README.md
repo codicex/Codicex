@@ -40,6 +40,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
 ---
 
 ## 📌 Proyectos destacados
