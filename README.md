@@ -1,8 +1,18 @@
 <h1 align="center">👋 Hola, soy Brandon (@codicex)</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
+</p>
+
+<p align="center">
 🛡️ Ciberseguridad · 💻 Soporte técnico avanzado · 🧠 Hacking ético en progreso <br>
 🔍 Curioso, autodidacta y siempre buscando mejorar
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacking%20Ético-En%20proceso-informational?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Proyectos-Freelance-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Disponible-Sí-brightgreen?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
 ---
@@ -16,6 +26,7 @@
 ---
 
 ## 🛠️ Tecnologías que uso
+
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows)
@@ -43,11 +54,21 @@
 
 ---
 
-## 📌 Proyectos destacados
+## 📚 Aprendiendo actualmente
 
-- 🔍 **Guías técnicas y scripts para troubleshooting**
-- 💻 **Labs estilo Mr. Robot** – desafíos tipo CTF
-- ⚙️ **Automatización de tareas comunes en sistemas**
+- 🔐 Hacking ético y pentesting (Kali, Burp Suite, CTFs)
+- 🐧 Análisis forense en Linux y Windows
+- ☁️ Profundizando en AWS y Azure
+
+---
+
+## 🧪 Proyectos recientes
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| ![thumb](https://via.placeholder.com/100) | Simulación de ataque tipo Mr. Robot en entorno real | Bash · Kali · Ansible · Wireshark |
+| ![thumb](https://via.placeholder.com/100) | Script para automatización de extracción de logs | Python · API REST · XDR |
+| ![thumb](https://via.placeholder.com/100) | Lab doméstico con máquinas virtuales y Docker | Ubuntu · Docker · VirtualBox |
 
 ---
 
@@ -60,3 +81,12 @@
 
 ---
 
+## 🐍 Snake de actividad
+
+![snake gif](https://github.com/codicex/codicex/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Conecta conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/tu-usuario) <!-- cámbialo si quieres -->
