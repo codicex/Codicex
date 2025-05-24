@@ -7,11 +7,6 @@
                                       ╚███████╗ ╚██████╝██████║ ██║╚██████╗ ███████╗██║  ██║
                                        ╚══════╝  ╚════╝  ╚════╝ ╚═╝  ╚════╝ ╚══════╝╚═╝   ╚╝
 </pre>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="80%" />
-</p>
 
 <p align="center">
 🛡️ Ciberseguridad · 💻 Soporte técnico avanzado · 🧠 Hacking ético en progreso <br>
