@@ -91,8 +91,7 @@
 
 ## 🐍 Snake de actividad
 
-<img src="https://raw.githubusercontent.com/codicex/codicex/output/github-contribution-grid-snake.svg" alt="snake gif" />
-
+![snake gif](https://github.com/codicex/codicex/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
