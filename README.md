@@ -55,6 +55,10 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=kibana)
+![vSphere](https://img.shields.io/badge/-vSphere-607078?style=flat&logo=vmware)
+![Cortex XDR](https://img.shields.io/badge/-Cortex%20XDR-74C0FC?style=flat&logo=paloaltonetworks)
 
 ---
 
