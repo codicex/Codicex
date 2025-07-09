@@ -73,10 +73,10 @@
 ## 🧪 Proyectos recientes
 
 | Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| ![thumb](https://via.placeholder.com/100) | Simulación de ataque tipo Mr. Robot en entorno real | Bash · Kali · Ansible · Wireshark |
-| ![thumb](https://via.placeholder.com/100) | Script para automatización de extracción de logs | Python · API REST · XDR |
-| ![thumb](https://via.placeholder.com/100) | Lab doméstico con máquinas virtuales y Docker | Ubuntu · Docker · VirtualBox |
+|----------|-------------|-------------|
+| ![thumb](https://via.placeholder.com/100) | Sistema de monitorización con Grafana y Prometheus para entornos Linux y Docker | Grafana · Prometheus · Linux · Docker |
+| ![thumb](https://via.placeholder.com/100) | Desarrollo de tienda online de ropa con sistema de personalización y pasarela de pago | JavaScript · HTML · CSS · Stripe · MongoDB |
+| ![thumb](https://via.placeholder.com/100) | Juego de supervivencia en desarrollo con mecánicas de crafting, clima y enemigos dinámicos | Unity · C# · Blender · Git |
 
 ---
 
